@@ -1,0 +1,5 @@
+{
+  "name": "Isometric Drawing Tool",
+  "description": "An interactive tool to create dynamic drawings on isometric dot paper. Draw figures using edges, faces, or cubes. You can shift, rotate, color, decompose, and view in 2D or 3D.",
+  "requestFramePermissions": []
+}
